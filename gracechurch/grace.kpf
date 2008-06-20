@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="fc62044f-7a15-4ed2-9f8c-a92096b38357" kpf_version="4" name="grace.kpf">
+<folder id="cbabd3db-c7f7-4e63-976a-187de9338665" idref="36dbf5c9-9279-448f-911e-3cbe0102ec2d" name="audioplayer">
+</folder>
+<folder id="36dbf5c9-9279-448f-911e-3cbe0102ec2d" idref="fc62044f-7a15-4ed2-9f8c-a92096b38357" name="static">
+</folder>
 <folder id="dd594423-ba46-4b59-a7dd-8fa7c24c2b76" idref="fc62044f-7a15-4ed2-9f8c-a92096b38357" name="templates">
 </folder>
 <preference-set idref="fc62044f-7a15-4ed2-9f8c-a92096b38357">
