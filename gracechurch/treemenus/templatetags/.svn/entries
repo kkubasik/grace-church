@@ -1,0 +1,52 @@
+8
+
+dir
+14
+http://django-treemenus.googlecode.com/svn/trunk/treemenus/templatetags
+http://django-treemenus.googlecode.com/svn
+
+
+
+2008-01-31T14:04:09.352893Z
+4
+jphalip@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fdea2c3e-f844-0410-8cb8-5dfa609de280
+
+__init__.py
+file
+
+
+
+
+2008-06-20T00:53:30.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-01-31T14:04:09.352893Z
+4
+jphalip@gmail.com
+
+tree_menu_tags.py
+file
+
+
+
+
+2008-06-20T00:53:30.000000Z
+3459f2d2b7d36a8280d5fa76c150a143
+2008-01-31T14:04:09.352893Z
+4
+jphalip@gmail.com
+

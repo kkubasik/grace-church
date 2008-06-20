@@ -1,0 +1,53 @@
+8
+
+dir
+14
+http://django-treemenus.googlecode.com/svn/trunk/treemenus/locale/ru/LC_MESSAGES
+http://django-treemenus.googlecode.com/svn
+
+
+
+2008-05-15T14:21:45.490151Z
+13
+maxim.oransky
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fdea2c3e-f844-0410-8cb8-5dfa609de280
+
+django.po
+file
+
+
+
+
+2008-06-20T00:53:29.000000Z
+af422d79305b0daf9697d27bb9b8e737
+2008-05-15T14:21:45.490151Z
+13
+maxim.oransky
+
+django.mo
+file
+
+
+
+
+2008-06-20T00:53:29.000000Z
+9404a1fb0c9d23dc11f62f2c1eaf1754
+2008-05-15T14:21:45.490151Z
+13
+maxim.oransky
+has-props
+
