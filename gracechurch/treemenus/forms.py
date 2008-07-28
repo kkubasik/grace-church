@@ -1,5 +1,4 @@
-from django import newforms as forms
-
+from django import forms 
 from models import Menu, MenuItem
 
 
